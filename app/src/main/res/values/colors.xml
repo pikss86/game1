@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="COLOR_WHITE_KLETKA">#B3AFD7</color>
+    <color name="COLOR_BLACK_KLETKA">#1A141F</color>
+    <color name="COLOR_WHITE_CHECKER">#04D7DB</color>
+    <color name="COLOR_BLACK_CHECKER">#AA47A7</color>
+    <color name="COLOR_WHITE_DAMKA">#00A0A3</color>
+    <color name="COLOR_BLACK_DAMKA">#DE64DA</color>
+    <color name="COLOR_TBCH_CHECKER">#97F56E</color>
+    <color name="COLOR_SPACE">#A0ECFE</color>
+</resources>
